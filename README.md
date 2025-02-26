@@ -20,3 +20,9 @@ this is a Java Parity Pack and Copies how they do it
 1.3.1
 - Fixed Bugs
 - Removed Unused Subpack Folder and Attachables inside
+
+1.4.0
+- Fixed Bugs where holding Piglin Heads in the mainhand or offhand would show the Ears
+- Fixed Bugs where holding Enchantment Tables in the mainhand or offhand would show the Book
+- Added all possible Education Edition Items
+- Added Sculk Sensor, Calibrated Sculk Sensor, Sculk Shrieker and More (All Animated Textures)
