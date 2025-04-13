@@ -26,3 +26,13 @@ this is a Java Parity Pack and Copies how they do it
 - Fixed Bugs where holding Enchantment Tables in the mainhand or offhand would show the Book
 - Added all possible Education Edition Items
 - Added Sculk Sensor, Calibrated Sculk Sensor, Sculk Shrieker, Lectern, Lightning Rod, End Rod and More (All Animated Textures)
+
+1.4.1
+- Fixed Stonecutters Saw Texture
+- Fixed Slime and Honey Block Geo
+- Added Most Education Edition Blocks
+- WIP on Unobtainable Items
+- WIP on Updating Conduit and Heavy Core Geos
+- Added Blend Frames to existing Animated Blocks to make their texture change Smoother
+- Added All 1.21.70 Items
+- Added All Pressure Plates
