@@ -36,3 +36,7 @@ this is a Java Parity Pack and Copies how they do it
 - Added Blend Frames to existing Animated Blocks to make their texture change Smoother
 - Added All 1.21.70 Items
 - Added All Pressure Plates
+
+1.4.2
+- Small Bug Fixes
+- Fixed Enchantment Table Geometry
