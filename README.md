@@ -40,3 +40,4 @@ this is a Java Parity Pack and Copies how they do it
 1.4.2
 - Small Bug Fixes
 - Fixed Enchantment Table Geometry
+- Custom Heavycore, Conduit and Button Geometry for Bogged, Drowned and Zombie Villager
