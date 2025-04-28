@@ -41,3 +41,10 @@ this is a Java Parity Pack and Copies how they do it
 - Small Bug Fixes
 - Fixed Enchantment Table Geometry
 - Custom Heavycore, Conduit and Button Geometry for Bogged, Drowned and Zombie Villager
+
+1.4.3
+- Added better Geometries for items Geos using Texture Meshes changing cod_, feather_, lead_, bone_ and item_ Geometries
+- Fixed Banner Geometry for more consistency with Java Edition
+- Added Custom Armor for Foxes, Witches, Villagers and Creepers
+- Added Subpack for Testing Features
+- Bows, Crossbows and Spyglass are Experimental and can be Activated with the Testing Features Slider
