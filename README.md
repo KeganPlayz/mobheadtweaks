@@ -3,7 +3,10 @@ Visually shows Items and Blocks on Most Mobs and Players
 this can be used for Cosmetics and More
 this is a Java Parity Pack and Copies how they do it
 
-## Mob Head Tweaks Updates 
+## Mob Head Tweaks Updates
+1.4.4
+- Fixed Spyglass Rendering on Screen when in First Person
+- 
 1.4.3
 - Added better Geometries for items Geos using Texture Meshes changing cod_, feather_, lead_, bone_ and item_ Geometries
 - Fixed Banner Geometry for more consistency with Java Edition
