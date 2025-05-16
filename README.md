@@ -1,7 +1,7 @@
 ## Mob Head Tweaks About
 Visually shows Items and Blocks on Most Mobs and Players
 this can be used for Cosmetics and More
-this is a Java Parity Pack and Copies how they do it
+this is a Java Parity Pack and Copies how they do it with a few tweaks
 
 ## Mob Head Tweaks Updates
 1.4.5
