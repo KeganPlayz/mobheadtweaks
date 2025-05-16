@@ -4,6 +4,13 @@ this can be used for Cosmetics and More
 this is a Java Parity Pack and Copies how they do it
 
 ## Mob Head Tweaks Updates
+1.4.5
+- Fixed Enchantment Table Book Geometries Rotation
+- Added Subpack for Preview Features (Currently only Dried Ghast)
+- Added Jack O' Lanterns and Pumpkins to Foxes
+- Reverted 1.21.80's Creeper Render Controller to 1.21.70's to fix Rendering Bugs
+- Added All 1.21.50 Items
+  
 1.4.4
 - Fixed Spyglass Rendering on Screen when in First Person
 
