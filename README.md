@@ -4,13 +4,41 @@ this can be used for Cosmetics and More
 this is a Java Parity Pack and Copies how they do it with a few tweaks
 
 ## Mob Head Tweaks Updates
+1.4.6
+MHT 1.4.6
+- Added New Lead Geos for Creepers, Piglins, Piglin Brutes and Zombified Piglins
+- Added Custom Ghast Tear Geos
+- Added Happy Ghast, Ghast Spawn Egg
+- Added Animated Enchanting Table Book
+- Added Custom Slab Geo for Multi Sided Slabs, Smooth Stone, Sandstone, Cut Sandstone, Red Sandstone, and Cut Red Sandstone Slabs
+- Added Custom Stairs Geo for Multi Sided Stairs, Sandstone and Red Sandstone
+- Added Portal Geo for Nether Portals
+- Added Animated Texture for Portals
+- Fixed Title
+- Fixed Slime Block Geo
+- Added Jigsaw
+- Added Bedrock
+- Fixed Creeper Armor Geo
+- Fixed Custom Armor Models
+- Added Shelfs
+- Added Copper Golem Statues
+- Added Copper Chests
+- Added New Lightning Rods
+- Added Slimeball
+- Added Book
+- Added Iron Door
+- Added Bucket of Salmon
+- Added Fishing Rod
+- Added Birch Boat
+- Added Glowstone Dust
+
 1.4.5
 - Fixed Enchantment Table Book Geometries Rotation
 - Added Subpack for Preview Features (Currently only Dried Ghast)
 - Added Jack O' Lanterns and Pumpkins to Foxes
 - Reverted 1.21.80's Creeper Render Controller to 1.21.70's to fix Rendering Bugs
 - Added All 1.21.50 Items
-  
+
 1.4.4
 - Fixed Spyglass Rendering on Screen when in First Person
 
