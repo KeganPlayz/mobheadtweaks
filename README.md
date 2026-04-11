@@ -5,7 +5,6 @@ this is a Java Parity Pack and Copies how they do it with a few tweaks
 
 ## Mob Head Tweaks Updates
 1.4.6
-MHT 1.4.6
 - Added New Lead Geos for Creepers, Piglins, Piglin Brutes and Zombified Piglins
 - Added Custom Ghast Tear Geos
 - Added Happy Ghast, Ghast Spawn Egg
