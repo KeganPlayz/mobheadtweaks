@@ -4,6 +4,26 @@ this can be used for Cosmetics and More
 this is a Java Parity Pack and Copies how they do it with a few tweaks
 
 ## Mob Head Tweaks Updates
+MHT 1.4.7
+- Updated Title Ui
+- New 2d to 3d WIP
+- Added All Copper Items
+- Added All Stairs Slabs Walls Buttons
+- Updated Glow Stick Geometry
+- Updated Witch Conduit Geometry
+- Updated Witch Heavy Core Geometry
+- Added all Flowers
+- Added all Buckets
+- Added all Sulfur Items
+- Added all Armor Trims
+- Added all Pottery Sherds
+- Added Shulker Box Geometry
+- Updated and Fixed Bamboo Fence and Fence Gate
+- Added all Dyed Wools Carpets, Concretes, Concrete Powders, Terracottas, Glazed Terracottas
+- Added all Concrete Slabs and Stairs
+- Updated Haybale Texture
+- Added 100s of more items aswell Includes 99% of items!
+
 1.4.6
 - Added New Lead Geos for Creepers, Piglins, Piglin Brutes and Zombified Piglins
 - Added Custom Ghast Tear Geos
